@@ -2,7 +2,7 @@ package com.company.linkedList;
 
 public class DeleteNodeInLinkedList {
 
-    public class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
 
